@@ -1,0 +1,41 @@
+Project 3 created by Harshita
+Enter the loan amount: 
+1000
+Enter the monthly payment: 
+50
+Enter the annual rate of interest: 
+10
+Enter the number of months:
+12
+Month	Balance
+1		958.3333333333334
+2		916.3194444444445
+3		873.9554398148148
+4		831.2384018132716
+5		788.1653884950489
+6		744.7334333991743
+7		700.9395453441674
+8		656.7807082220355
+9		612.2538807905524
+10		567.3559964638071
+11		522.0839631010055
+12		476.43466279351384
+
+Enter the loan amount: 
+10000
+Enter the monthly payment: 
+300
+Enter the annual rate of interest: 
+12
+Enter the number of months:
+6
+Month	Balance		Payment	Remaining
+1		10100.0		300.0		9800.0
+2		9898.0		300.0		9598.0
+3		9693.98		300.0		9393.98
+4		9487.9198		300.0		9187.9198
+5		9279.798998		300.0		8979.798998
+6		9069.59698798		300.0		8769.59698798
+
+Process finished with exit code 0
+
